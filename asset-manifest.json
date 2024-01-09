@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inboost/static/css/main.83363235.css",
+    "main.js": "/inboost/static/js/main.29007d2a.js",
+    "static/js/787.bc4e1153.chunk.js": "/inboost/static/js/787.bc4e1153.chunk.js",
+    "index.html": "/inboost/index.html",
+    "main.83363235.css.map": "/inboost/static/css/main.83363235.css.map",
+    "main.29007d2a.js.map": "/inboost/static/js/main.29007d2a.js.map",
+    "787.bc4e1153.chunk.js.map": "/inboost/static/js/787.bc4e1153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83363235.css",
+    "static/js/main.29007d2a.js"
+  ]
+}
